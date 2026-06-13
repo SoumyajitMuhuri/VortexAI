@@ -4,7 +4,7 @@
 
 ## ✨ Invite Link- [Here](https://discord.com/oauth2/authorize?client_id=1368832549748740197&permissions=274878008320&integration_type=0&scope=bot+applications.commands)
 
-# ✨ How to use:
+# ✨ How to use:-
 
 - use '/imagine' command to give a prompt
 ![Demo App](/ss/prompt.png)
