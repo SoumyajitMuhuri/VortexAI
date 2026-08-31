@@ -9,7 +9,7 @@
 - use '/imagine' command to give a prompt
 ![Demo App](/ss/prompt.png)
 
-- Real-time image generation with Replicate AI
+- Real-time image generation with Replicate AI-
 ![Demo App](/ss/result.png)
 
 ## ✨ Technologies used:
