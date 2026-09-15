@@ -12,7 +12,7 @@
 - Real-time image generation with Replicate AI
 ![Demo App](/ss/result.png)
 
-## ✨ Technologies used:
+## ✨ Technologies used:-
 
 - Node.js
 - Discord.js
